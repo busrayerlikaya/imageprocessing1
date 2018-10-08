@@ -1,0 +1,10 @@
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\bin\Debug\Griye Çevirme Yöntemleri.exe.config
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\bin\Debug\Griye Çevirme Yöntemleri.exe
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\bin\Debug\Griye Çevirme Yöntemleri.pdb
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\obj\Debug\Griye Çevirme Yöntemleri.csprojAssemblyReference.cache
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\obj\Debug\Griye_Çevirme_Yöntemleri.Form1.resources
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\obj\Debug\Griye_Çevirme_Yöntemleri.Properties.Resources.resources
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\obj\Debug\Griye Çevirme Yöntemleri.csproj.GenerateResource.cache
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\obj\Debug\Griye Çevirme Yöntemleri.csproj.CoreCompileInputs.cache
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\obj\Debug\Griye Çevirme Yöntemleri.exe
+C:\Users\mfati\source\repos\Griye Çevirme Yöntemleri\Griye Çevirme Yöntemleri\obj\Debug\Griye Çevirme Yöntemleri.pdb
